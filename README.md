@@ -1,4 +1,4 @@
-## Patrick Barretp 👋
+## Patrick Barreto
 
 <div align="center">
   <a href="https://github.com/PatrickBarreto">
